@@ -29,6 +29,16 @@
       "name": "Oculos",
       "price": "350",
       "id": 6
+    },
+    {
+      "name": "Camisola",
+      "price": "29.90",
+      "id": 7
+    },
+    {
+      "name": "Camisola",
+      "price": "29.90",
+      "id": 8
     }
   ]
 }
