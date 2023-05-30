@@ -39,6 +39,41 @@
       "name": "Camisola",
       "price": "29.90",
       "id": 8
+    },
+    {
+      "name": "Mousepad",
+      "price": "10",
+      "id": 9
+    },
+    {
+      "name": "Tenis Nike",
+      "price": "1.99",
+      "id": 10
+    },
+    {
+      "name": "Lingerie ",
+      "price": "60",
+      "id": 11
+    },
+    {
+      "name": "Lingerie ",
+      "price": "60",
+      "id": 12
+    },
+    {
+      "name": "Lingerie ",
+      "price": "60",
+      "id": 13
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 14
+    },
+    {
+      "name": "dado",
+      "price": "3",
+      "id": 15
     }
   ]
 }
